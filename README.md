@@ -2,7 +2,7 @@
 
 Champion: Myles Borins
 
-Status: Stage 3
+Status: Stage 3000!
 
 ## Synopsis
 
